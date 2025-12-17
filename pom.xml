@@ -5,16 +5,16 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.3.4</version>
+		<version>3.5.8</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.curso</groupId>
-	<artifactId>faculdade</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>faculdade</name>
+	<groupId>br.com</groupId>
+	<artifactId>thebearbar</artifactId>
+	<version>0.0.1</version>
+	<name>thebearbar</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>23</java.version>
+		<java.version>21</java.version>
 	</properties>
 	<dependencies>
 
